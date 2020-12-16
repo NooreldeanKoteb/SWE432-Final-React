@@ -1,0 +1,79 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #5CDB95;
+  /* background-image: linear-gradient(to bottom right,rgb(238, 25, 60), orange) */
+}
+h4 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+}
+h1 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+}
+p {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 24px;
+}
+.bottom{
+  font-size: 18px;
+}
+.body {
+  /* opacity: 90%; */
+  margin: auto;
+  width: 75%;
+  /* //rgba(238, 238, 238, 0.75) */
+  background-color: rgba(237, 245, 225);
+  /* background-image: radial-gradient(purple, rgb(212, 74, 212),rgb(212, 74, 212)); */
+  padding: 10px;
+}
+.input-add {
+  margin: auto;
+  width: 60%;
+}
+.warning {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+}
+textarea {
+  font-family: Helvetica;
+  background-color: whitesmoke;
+  width: 48%;
+  height: 200px;
+  resize: none;
+}
+#in {
+  float: left;
+  margin: auto;
+}
+#out {
+  float: right;
+  margin: auto;
+}
+#btn-out {
+  float: right;
+  margin: 1%;
+}
+.radio{
+  font-size: 18px;
+}
+/* button {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgb(16, 172, 86);
+  color: white;
+  float: right;
+} */
+img {
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
