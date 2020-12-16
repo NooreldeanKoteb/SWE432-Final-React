@@ -3,7 +3,7 @@
   text-align: center;
 }
 body {
-  background-color: #5CDB95;
+  background-color: #5cdb95;
   /* background-image: linear-gradient(to bottom right,rgb(238, 25, 60), orange) */
 }
 h4 {
@@ -21,10 +21,10 @@ p {
   text-align: center;
   font-size: 24px;
 }
-.bottom{
+.bottom {
   font-size: 18px;
 }
-.body {
+#body {
   /* opacity: 90%; */
   margin: auto;
   width: 75%;
@@ -37,7 +37,7 @@ p {
   margin: auto;
   width: 60%;
 }
-.warning {
+#warning {
   color: rgb(0, 0, 0);
   font-size: 18px;
 }
@@ -60,7 +60,7 @@ textarea {
   float: right;
   margin: 1%;
 }
-.radio{
+.radio {
   font-size: 18px;
 }
 /* button {

@@ -72,14 +72,14 @@ export default function App() {
   }
 
   return (
-    <div class="body">
+    <div id="body">
       <h1> Nkoteb's Final</h1>
       <p>
         <b>Instructions:</b> Input as many words as you like seperated by commas
         and press the update list button. You may then sort, sanitize, or make
         inputs unique. Sorting can be done in ascending and descending order!
       </p>
-      <p class="warning">
+      <p id="warning">
         <b>[Any spaces will be removed automatically.]</b>
       </p>
       <div class="input-add">
