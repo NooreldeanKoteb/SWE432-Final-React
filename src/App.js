@@ -146,7 +146,7 @@ export default function App() {
       <br />
       <h4> Thank you for a great semester proffessor!</h4>
       <img
-        src="https://assets.stickpng.com/images/5845e0f37733c3558233c0e9.png"
+        src="https://i.pinimg.com/originals/10/d9/63/10d9631abb9778072c1da264a6d4709a.png"
         alt="maybe"
       />
       <p class="bottom">
